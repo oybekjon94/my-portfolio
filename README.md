@@ -12,7 +12,6 @@
 - Clean and Simple UI with Jetpack Compose
 - Coroutines
 - MVVM(Model + View + ViewModel)
-- ApiLayer
 - Dagger Hilt for DI
 
 <div align="center">
