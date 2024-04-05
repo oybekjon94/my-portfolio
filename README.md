@@ -1,6 +1,6 @@
 ## Oybek's portfolio 🔥
 
-### jetpack-onboarding-screen with Jetpack Compose
+### 💻 jetpack-onboarding-screen with Jetpack Compose
 
 📸 Screens01            |  📸 Screens02  |  📸 Screens03
 :-------------------------:|:-------------------------:|:-------------------------:
